@@ -21,19 +21,8 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1838
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
-All of the code files is organized into folders. For example,
+All of the code files is organized into folders. 
 
-The code will look like the following:
-```
-In [ ]:
-from sklearn.decomposition import PCA   
-
-pca = PCA(n_components=2)               
-pca.fit(X_data)                         
-X_2D = pca.transform(X_data)            
-data_df['PCA1'] = X_2D[:, 0]
-data_df['PCA2'] = X_2D[:, 1]
-```
 
 **Following is what you need for this book:**
 If you’re an IT manager, data analyst, or BI user new to using Power BI for solving business intelligence problems, this book is for you. You’ll also find this book useful if you want to migrate from other BI tools to create powerful and interactive dashboards. No experience of working with Power BI is expected.
