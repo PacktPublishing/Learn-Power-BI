@@ -1,0 +1,49 @@
+{ 
+    "name": "LearnPowerBI", 
+    "dataColors": 
+	[
+		"#EC670F",
+		
+"#3C3C3B",
+		"#E5EAEE",
+		
+"#5C85E6", 
+		
+"#29BCC0",
+		"#7EAE40",
+		"#20B2E7"
+,
+		"#D3DCE0"
+,
+		"#FF6B0F"
+	
+
+],
+    "background":"#EC670F",
+    "foreground": "#FFFFFF",
+    "tableAccent": "#29BCC0",
+    "visualStyles":
+	{"*":
+		{"*":
+			{"*":
+				[{
+					"fontSize":14,
+					"fontFamily":"Segoe UI",
+					"color":{"solid":{}}
+				}],
+				"general":[{"responsive":true}]
+			}
+		},
+    		"tableEx":
+		{"*":
+			{
+				"columnHeaders":
+				[{
+					"autoSizeColumnWidth":true,
+					"fontFamily":"Segoe (Bold)",
+					"fontSize":14
+				}]
+			}
+		}
+	}
+}

@@ -1,0 +1,49 @@
+{
+	"name":"LearnPowerBI",
+	"foreground":"#FFFFFF",
+	"background":"#EC670F",
+	"dataColors": 
+		[
+			"#EC670F",
+			
+"#3C3C3B",
+			"#E5EAEE",
+		
+	"#5C85E6", 
+		
+	"#29BCC0",
+			"#7EAE40",
+			"#20B2E7"
+,
+			"#D3DCE0"
+,
+			"#FF6B0F"
+		],
+	"tableAccent":"#20B2E7",
+	"tiles":
+		{
+			"background":"#3C3C3B",
+			"color":"#E5EAEE",
+			"opacity":1.00
+		},
+	"visualStyles":
+		{"*":
+			{"*":
+				{"*":
+					[
+						{"color":
+							{"solid":
+								{"color":"#E5EAEE"}
+							}
+						},
+						{"labelColor":
+							{"solid":
+								{"color":"#E5EAEE"}
+							}
+						}
+					]
+				}
+			}
+		},
+	"backgroundImage":null
+}
