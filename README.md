@@ -41,7 +41,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ### Related products <Other books you may enjoy>
 * Mastering Microsoft Power BI [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/mastering-microsoft-power-bi?utm_source=github&utm_medium=repository&utm_campaign=9781788297233) [[Amazon]](https://www.amazon.com/dp/1788297237)
 
-* Hands-On Cybersecurity with Blockchain [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/microsoft-power-bi-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781788290142) [[Amazon]](https://www.amazon.com/dp/1788290143)
+* Microsoft Power BI Cookbook [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/microsoft-power-bi-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781788290142) [[Amazon]](https://www.amazon.com/dp/1788290143)
 
 ## Get to Know the Author
 **Greg Deckler**
